@@ -76,3 +76,8 @@ Solution: We used a simple in-memory list with stateful widgets to hold product 
 2. UI Consistency Across Devices
 Problem: Ensuring the UI looked good on different screen sizes and orientations.
 Solution: We used `MediaQuery`, `Flexible`, and `Expanded widgets` to build a responsive layout.
+
+---
+
+Guitar Haven Demo Video
+- https://drive.google.com/file/u/0/d/1A48fcAkuT9g0204i65vYeRY6vp9Epjz2/view?usp=classroom_web
