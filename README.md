@@ -1,4 +1,4 @@
-Guitar Haven - E-commerce UI Project
+Guitar Haven - E-commerce UI Project GUIPRO
 
 Student Name: Ropelos, Angelo V.
 Student ID:2023-2110078
@@ -32,7 +32,7 @@ Home/Product Listing Screen
   - Product name, price, and description
   - “Add to Cart” button
   - "Color" select button
-  - "Quantity" button
+  - "Quantity" button <br><br>
 
 3. Cart Screen<br><br>
 **Main Purpose**
@@ -40,9 +40,9 @@ Home/Product Listing Screen
 **Key UI Elements**
   - Quantity adjustment controls
   - Total price calculation
-  - “Checkout” button
+  - “Checkout” button <br><br>
 
-4. Checkout Screen <br>br>
+4. Checkout Screen <br><br>
 **Main Purpose**
   - Confirms selected products and final total price.<br><br>
 **Key UI Elements**
